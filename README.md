@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Harini S</h1>
-<h3 align="center">Pre-final Year Student | Machine Learning intern | Machine Learning & NLP Enthusiast | Emerging Expert in LLMs & RAG</h3>
+<h3 align="center">Pre-final Year Student | ML & NLP Enthusiast | Emerging Expert in LLMs & RAG</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinis1018&label=Profile%20views&color=0e75b6&style=flat" alt="harinis1018" /> </p>
 
