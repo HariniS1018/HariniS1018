@@ -79,6 +79,5 @@
 </p>
 
 <p><img align="left" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=harinis1018&show_icons=true&locale=en&layout=compact" alt="harinis1018" /></p>
-<p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=harinis1018&show_icons=true&locale=en" alt="harinis1018" /></p>
 
 <p><img align="center" height= "200" src="https://github-readme-streak-stats.herokuapp.com/?user=harinis1018&" alt="harinis1018" /></p>
