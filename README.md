@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/harini">
+  <a href="https://www.linkedin.com/in/harini-s-995684248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://www.icdrex.com/wp-content/uploads/2023/04/1681468693-1024x518.jpg" alt="MasterHead" width="1200" height="400">
   </a>
 </p>
