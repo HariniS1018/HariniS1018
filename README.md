@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/harini-s-995684248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://static.vecteezy.com/system/resources/previews/036/135/742/non_2x/ai-generated-ultra-hd-technology-background-abstract-technology-wallpaper-dark-technology-background-photo.jpg" alt="MasterHead" width="1200" height="400">
+    <img src="https://www.ascend.io/wp-content/uploads/2023/12/ai-use-cases.jpg" alt="MasterHead" width="1200" height="400">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Harini S</h1>
